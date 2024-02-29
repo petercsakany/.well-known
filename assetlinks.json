@@ -1,0 +1,5 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target" : { "namespace": "android_app", "package_name": "com.example.xpens",
+               "sha256_cert_fingerprints": ["1A:56:A9:B5:88:BB:16:B6:4C:14:41:67:17:02:AC:B6:E8:BF:7A:7B:D2:92:5F:AB:9C:40:2A:84:D0:0E:30:EB"] }
+}]
